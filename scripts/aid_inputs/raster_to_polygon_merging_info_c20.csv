@@ -1,0 +1,8 @@
+grid_id,input_polygons_folder,output_polygons_folder,grid_intersections
+cID02,../../data/temp/{}/,../../data/temp/{}/,../../data/shapes_ch/cerrado_grid_02deg_ch_cropped_labelled_crosses.shp
+cID04,../../data/temp/{}/,../../data/temp/{}/,../../data/shapes_ch/cerrado_grid_04deg_ch_cropped_labelled_crosses.shp
+cID08,../../data/temp/{}/,../../data/temp/{}/,../../data/shapes_ch/cerrado_grid_08deg_ch_cropped_labelled_crosses.shp
+cID16,../../data/temp/{}/,../../data/temp/{}/,../../data/shapes_ch/cerrado_grid_16deg_ch_cropped_labelled_crosses.shp
+cID32,../../data/temp/{}/,../../data/temp/{}/,../../data/shapes_ch/cerrado_grid_32deg_ch_cropped_labelled_crosses.shp
+cID4c,../../data/temp/{}/,../../data/processed/,../../data/shapes_ch/cerrado_grid_4cell_ch_cropped_labelled_crosses.shp
+cerrado,../../data/temp/{}/,,
