@@ -1,0 +1,9 @@
+﻿,(1),(2),(3),(4),(5),(6),(7),(8)
+Av. annual precipitation (1),1.00,,,,,,,
+Av. temperature in the dry season (2),0.01,1.00,,,,,,
+Av. precipitation in the dry season (3),-0.54,-0.20,1.00,,,,,
+Peak of the dry season (4),-0.12,0.32,-0.06,1.00,,,,
+Log. population density (5),-0.31,-0.27,-0.15,0.19,1.00,,,
+Log. livestock density (6),0.26,0.24,0.26,0.02,0.44,1.00,,
+Sqrt. anthropic area perc. (7),0.07,-0.39,0.01,-0.15,-0.01,0.60,1.00,
+Log. change in anthropic area perc. (8),0.16,-0.29,0.08,0.24,-0.17,-0.07,-0.10,1.00
